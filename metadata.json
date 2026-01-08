@@ -1,7 +1,0 @@
-{
-  "name": "Training",
-  "description": "A collection of cognitive training tools including a Stroop effect trainer, mental math chain calculator, and interval timers.",
-  "requestFramePermissions": [
-    "microphone"
-  ]
-}
